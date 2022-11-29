@@ -1,0 +1,9 @@
+{
+	"test": [
+		{"id": "1", "word": "hi", "topic": "game"},
+		{"id": "2", "word": "hello", "topic": "book"},
+		{"id": "3", "word": "bye", "topic": "movie"},
+		{"id": "4", "word": "cya", "topic": "toy"},
+		{"id": "5", "word": "ciao", "topic": "box"}
+	]
+}
